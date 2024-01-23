@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+NEXT_PUBLIC_RAPID_API_KEY=
+NEXT_PUBLIC_IMAGIN_API_KEY=hrjavascript-mastery
+```
+
 First, run the development server:
 
 ```bash
